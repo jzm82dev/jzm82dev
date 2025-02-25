@@ -16,7 +16,7 @@ With years of experience in backend and frontend development, I specialize in bu
 🔹 I enjoy contributing to open-source projects and sharing knowledge with the dev community.  
 
 ## Connect With Me  
-📫 Reach me at jorge.zancada.moreno@gmail.com  
+📫 Reach me at jorge.zancada.moreno.dev@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/jorge-zancada-moreno-b2219429
 
 ### 🚀 Let's build something awesome together!.
