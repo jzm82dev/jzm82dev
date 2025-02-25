@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jorge 
 
-🚀 **Senior Software Engineer** | 🖥️ Laravel & Symfony | 🐘 PHP | ⚡ Angular | 🏗️ Monoliths & Microservices | ⚡MySQL
+🚀 **Senior Software Engineer** | 🖥️ Laravel & Symfony | 🐘 PHP | ⚡ Angular | 🏗️ Monoliths & Microservices | 🏛️ MySQL
 
 ## About Me  
 With years of experience in backend and frontend development, I specialize in building scalable applications using **Laravel, Synfony, PHP, and Angular**. Whether it's a **monolithic** architecture or a **microservices** setup, I enjoy designing and implementing robust solutions that perform efficiently.  
